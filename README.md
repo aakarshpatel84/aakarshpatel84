@@ -2,6 +2,30 @@
 MERN Stack Developer
 
 
+<h1 align="center">Hi 👋, I'm Rishabh Vishwakarma</h1>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
+
+<!-- ![logo](https://github.com/vrishabh081/vrishabh081/blob/main/cover.jpg) -->
+
+<div align="center">
+<img align="center" src = "https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coverimage"  />
+</div>
+
+
+
+<p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=vrishabh081&label=Profile%20views&color=0e75b6&style=flat" alt="vrishabh081" /> </p>
+<div align="center">
+🔭 I’m currently looking for a job **as MERN Stack Developer**
+
+🌱 I’m exploring **new tech stacks**
+
+👨‍💻 All of my projects are available at (https://aakarshpatel84.github.io)
+
+💬 Ask me about **HTML, CSS, JavaScript, React**
+
+📫 How to reach me **aakarshpatel84@gmail.com**</div>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aakarsh Patel) 
 
