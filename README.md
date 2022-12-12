@@ -8,8 +8,8 @@ MERN Stack Developer
 <!-- ![logo](https://github.com/vrishabh081/vrishabh081/blob/main/cover.jpg) -->
 
 <div align="center">
-<!-- <img align="center" src = "https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coverimage"  /> -->
-  <iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">via GIPHY</a></p>
+<img align="center" src = "[https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp](https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp)" alt="coverimage"  />
+
 </div>
 
 
