@@ -2,7 +2,7 @@
 MERN Stack Developer
 
 
-<h1 align="center">Hi 👋, I'm Rishabh Vishwakarma</h1>
+<h1 align="center">Hi 👋, I'm Aakarsh Patel</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <!-- ![logo](https://github.com/vrishabh081/vrishabh081/blob/main/cover.jpg) -->
