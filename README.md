@@ -5,6 +5,19 @@
 <!-- ![logo](https://github.com/vrishabh081/vrishabh081/blob/main/cover.jpg) -->
 <img src = "https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coverimage" align="center" display="block" />
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakarshpatel84&label=Profile%20views&color=0e75b6&style=flat" alt="aakarshpatel84" /> </p>
+
+- 🔭 I’m currently looking for a job **as MERN Stack Developer**
+
+- 🌱 I’m exploring **new tech stacks**
+
+- 👨‍💻 All of my projects are available at (https://aakarshpatel84.github.io)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
+
+- 📫 How to reach me **aakarshpatel84@gmail.com**
+
 <!--
 **aakarshpatel84/aakarshpatel84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
