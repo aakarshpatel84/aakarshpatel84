@@ -8,7 +8,7 @@ MERN Stack Developer
 <!-- ![logo](https://github.com/vrishabh081/vrishabh081/blob/main/cover.jpg) -->
 
 <div align="center">
-<img align="center" src = "https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coverimage"  />
+<img align="center" src = "[https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp](https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif)" alt="coverimage"  />
 
 </div>
 
