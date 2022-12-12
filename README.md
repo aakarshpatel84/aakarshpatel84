@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <!-- ![logo](https://github.com/vrishabh081/vrishabh081/blob/main/cover.jpg) -->
-<img src = "https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coverimage"  />
+<img src = "https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coverimage" align="center" display="block" />
 
 <!--
 **aakarshpatel84/aakarshpatel84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
