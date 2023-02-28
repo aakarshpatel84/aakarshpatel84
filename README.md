@@ -31,7 +31,7 @@ MERN Stack Developer
 
 
 ## 🌐 Socials:
-[Linkedin]](https://www.linkedin.com/in/aakarsh-patel-0b1422217/)) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//aakarsh-patel-0b1422217/)
 [Portfolio]](https://aakarshpatel84.github.io/)) 
 
 # 💻 Tech Stack:
